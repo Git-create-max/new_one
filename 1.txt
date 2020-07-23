@@ -1,0 +1,158 @@
+<table>
+
+<tr> 
+     <td>支梦阳</td>
+     <td> 是帅哥</td>
+      <td>吗</td> 
+       <td> 回答是</td>
+                  </tr>
+
+</table>?
+
+
+ 运动   音乐   黑夜    爱人    
+
+
+
+ Time：2019/3.22日 晚19.02分
+
+
+凌晨3点到4点偶尔醒一次...
+
+
+1.2015年小姑买一只鸡，自己吃着鸡屁股 。   同一年，买了一幅红手套。
+2.2016年爸爸带我去天府广场，并做到了。
+3.2016年第一次听到叫我“叔叔”。
+4.2017年徐州观音飞机场遇到一位杭州叔叔，很励志。
+5.2018年国庆节前一天在去火车站时，遇到一位女生，和我讲了她的理想和目标。
+6.2019年在石家庄遇到一位老大爷，跟我讲了他的经历。
+
+
+夏日万物青春
+人生若只如初见，何事秋风悲画扇——《纳兰容若》
+
+
+大数据（big data），指无法在可承受的时间范围内用常规软件工具进行捕捉、管理和处理的数据集合，是需要新处理模式才能具有更强的决策力、洞察发现力和流程优化能力来适应海量、高增长率和多样化的信息资产[1]
+在维克托·迈尔-舍恩伯格及肯尼斯·库克耶编写的《大数据时代》[2] 中大数据指不用随机分析法（抽样调查）这样的捷径，而采用所有数据进行分析处理。大数据的5V特点（IBM提出）：Volume（大量）、Velocity（高速）、Variety（多样）、Value（价值）、Veracity（真实性）。
+大指以下几点
+容量大（Volume）
+种类多（Variety）
+速度快（Velocity）
+可变性高（Variability）
+复杂性高（Complexity）
+价值大（value）
+
+
+
+华为  浪潮 中国电信云计算公司  阿里云  中兴软件 中软国际 新华三 神州数码  烽火 数梦工厂
+
+Java数据统计分析
+
+别选择好走的路，走好选择的路
+第一个：毕业后找到理想的工作达到月薪过万的高薪资
+第二个：寻找一生致爱
+第三个：强身健体，拥有强壮的身体
+第四个：看望名胜古迹三个
+第五个：提升价值千万
+第六个：梦幻巴黎之约
+
+ C++ api
+ 博客园；
+
+
+抓住日常生活，衣食住行，
+ 智能化家居、指纹密码锁、智能扫地机、智能音箱
+
+一张黑白照片展现出湖岸边一座简易码头的抽象之美
+
+
+手机号，身份证号，号对称的信息
+国家图书馆
+中关村 
+黑客帝国 
+
+numpy.linalg.det（） 行列式求值
+numpy.linalg.inv（） 矩阵求值
+
+神秘的黑洞
+
+
+林祥土  
+会飞的小精灵
+
+
+12.28
+正则方程，断点，多项式变量
+
+线性回归：
+所有预测值和真实值之间差值的平方和的最小值
+https://mubu.com/doc/2VtTMVieXo
+
+降维内容分析：
+从大到小排序的协方差对角化矩阵 乘以 原始矩阵的 前n行 就是得到了前n维
+
+中文文档校队活动（布客飞龙） https://blog.csdn.net/wizardforcel/article/details/98987516
+
+降维         https://mubu.com/doc/VEZQOY1po
+线性回归     https://mubu.com/doc/2VtTMVieXo 
+逻辑回归     https://mubu.com/doc/1Z_Q0FoSxo
+Knn          https://mubu.com/doc/2IbGW7qaoo
+朴素贝叶斯   https://mubu.com/doc/3mQ9V0qBHo
+集成学习     https://mubu.com/doc/1iyPA6aYmo
+随机森林     https://mubu.com/doc/2DLhpI_xNo
+聚类         https://mubu.com/doc/2KYRSgbV_o
+决策树       https://mubu.com/doc/3A8DZtXVdo
+特征工程     https://www.zhihu.com/question/28641663
+共享单车     https://mubu.com/doc/3B6cBMudQo
+卡方 chi2    https://www.jianshu.com/p/807b2c2bfd9b
+特征选择     https://sklearn.apachecn.org/docs/0.21.3/14.html
+API_Reference https://scikit-learn.org/stable/modules/classes.html#module-sklearn.feature_selection
+拉格朗日乘子法 https://blog.csdn.net/ccnt_2012/article/details/81326626
+举例分析方差分析ANOVA   https://www.jianshu.com/p/f5f54a39cb19
+风控模型WOE IV   https://zhuanlan.zhihu.com/p/80134853
+
+
+
+1、智能制造工程技术人员
+2、工业互联网工程技术人员
+3、虚拟现实工程技术人员
+4、连锁经营管理师
+5、供应链管理师
+6、网约配送员
+7、人工智能训练师
+8、电气电子产品环保检测员
+9、全媒体运营师
+10、健康照护师
+11、呼吸治疗师
+12、出生缺陷防控咨询师
+13、康复辅助技术咨询师
+14、无人机装调工
+15、高铁线路综合维修工
+16、装配式建筑施工负
+1、??? 第1名：初赛TOP1方案——基于时序预测视频点击率 https://www.turingtopia.com/competitionnew/disDetail?discussId=99c5925a9c834fc5bcee8943d6297342&cid=e4880352b6ef4f9f8f28e8f98498dbc4
+2、??? 第2名：公众号：麻婆豆腐AI{方案&代码}
+https://www.turingtopia.com/competitionnew/disDetail?discussId=7d84005a27844796b6305c78ed140844&cid=e4880352b6ef4f9f8f28e8f98498dbc4
+3、??? 第3名：第三方案 LGB单模
+https://www.turingtopia.com/competitionnew/disDetail?discussId=c9aa7aed45144eb5be0702c6d6ef6352&cid=e4880352b6ef4f9f8f28e8f98498dbc4
+4、??? 第4名：初赛rank4
+https://www.turingtopia.com/competitionnew/disDetail?discussId=496a532d34304a96b8345e18270c8015&cid=e4880352b6ef4f9f8f28e8f98498dbc4
+5、??? 第5名：图灵联邦视频点击预测大赛top5解决方案-天才儿童
+https://www.turingtopia.com/competitionnew/disDetail?discussId=2cc516a3187b426fbb1a795ce6f4619a&cid=e4880352b6ef4f9f8f28e8f98498dbc4
+6、??? 第6名：第六名解决方案 完全单模
+https://www.turingtopia.com/competitionnew/disDetail?discussId=b506d6878d5f452bab3364ca21ea32df&cid=e4880352b6ef4f9f8f28e8f98498dbc4
+7、??? 第7名：初赛第七名方案
+https://www.turingtopia.com/competitionnew/disDetail?discussId=2b0cc0b19d0a4981b8b2d4f024a7d8b5&cid=e4880352b6ef4f9f8f28e8f98498dbc4
+8、??? 第8名：视频点击TOP8方案来咯(纯单模)
+https://www.turingtopia.com/competitionnew/disDetail?discussId=b2aa51cc7a4147d591f7cb8701141ae8&cid=e4880352b6ef4f9f8f28e8f98498dbc4
+9、??? 第9名：初赛第九名解决方案
+https://www.turingtopia.com/competitionnew/disDetail?discussId=7e7521c2417640b49390b32c7d3500ab&cid=e4880352b6ef4f9f8f28e8f98498dbc4
+10、? 第11名：初赛第十一方案，单模（求大佬轻虐）
+https://www.turingtopia.com/competitionnew/disDetail?discussId=ee81f3c065d7421899827e64e6bfcc7f&cid=e4880352b6ef4f9f8f28e8f98498dbc4
+11、? 第12名：视频点击预测大赛两蚊两毫解决方案
+https://www.turingtopia.com/competitionnew/disDetail?discussId=2c937e82aa4a4a069231b5746e638ba6&cid=e4880352b6ef4f9f8f28e8f98498dbc4
+
+集成算法 发展史  原理 
+
+距离 https://mp.weixin.qq.com/s?src=11&timestamp=1586220509&ver=2263&signature=tat3Xg2F8KYHHPJAexKASo5qJuJzMB75qMnTsRjxjrr*A-F16mqBmYjS8WiHzKVQhszj3A3DxjhDgOjGVL9xs*IpzaOy2Dnh*r5uWQmiqtppWXaz7OESGeHZCLXaK9v*&new=1
+https://blog.csdn.net/zlsjsj/article/details/80264927
+电影评分
